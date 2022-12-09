@@ -1,7 +1,7 @@
 ---
 title: "Ali Darijani"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/ali_darijani.jpg"
+image: "images/team/ali_darijani.png"
 jobtitle: "Director"
 linkedinurl: "https://www.linkedin.com/in/ali-darijani-675b52241/"
 promoted: true
