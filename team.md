@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified educators can help your child to grow as a person.
+Our team of qualified educators will help people to grow as a person.
