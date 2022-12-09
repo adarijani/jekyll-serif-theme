@@ -1,4 +1,5 @@
-baseurl: 'https://adarijani.github.io/jekyll-serif-theme'
+url: https://adarijani.github.io
+baseurl: /jekyll-serif-theme
 permalink: pretty
 title: 'Jekyll Serif'
 
