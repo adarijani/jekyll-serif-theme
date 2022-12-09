@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-Either drop us a line or visit us face-to-face during our opening hours.
+Call us, drop us a line or visit us face-to-face during our opening hours.
 
 | Day       | Opening Hours |
 | --------- | ------------- |
