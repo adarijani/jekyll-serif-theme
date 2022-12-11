@@ -1,17 +1,17 @@
 [
   {
-    "title": "Feature 01",
-    "description": "to be completed:-)",
+    "title": "Free Consultation",
+    "description": "New clients receive an obligation free consultation.",
     "image": "images/features/branding.svg"
   },
   {
-    "title": "Feature 02",
-    "description": "to be completed:-).",
+    "title": "Certified Accountants",
+    "description": "All members of our team are certified accountants.",
     "image": "images/features/process.svg"
   },
   {
-    "title": "Feature 03",
-    "description": "to be completed:-)",
+    "title": "Tax Compliance",
+    "description": "We stay up to date on the latest changes to the tax code.",
     "image": "images/features/3d.svg"
   }
 ]
