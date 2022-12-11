@@ -1,7 +1,7 @@
 ---
 title: "Ali Darijani"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/original/ali_darijani.png"
+image: "images/team/original/male.svg"
 jobtitle: "Founder, Science/Tech guy"
 website: "https://adarijani.github.io/"
 promoted: true
