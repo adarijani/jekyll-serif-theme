@@ -8,4 +8,4 @@ promoted: true
 weight: 2
 ---
 
-CEO and the first in command:-)
+to be completed:-)
