@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Founder and the tech guy:-)
+to be completed:-)
