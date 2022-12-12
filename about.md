@@ -20,7 +20,7 @@ heavily on [games](https://en.wikipedia.org/wiki/Mathematical_puzzle) and [brain
 * [Infimum and supremum](https://en.wikipedia.org/wiki/Infimum_and_supremum)  
 
 
-![My helpful screenshot](/assets/images/jpg/cover.jpg)
+![My helpful screenshot](/assets/images/svg/hanoi.svg)
 
 ### [Jenga](https://en.wikipedia.org/wiki/Jenga)  
 * [Statics](https://en.wikipedia.org/wiki/Statics)  
