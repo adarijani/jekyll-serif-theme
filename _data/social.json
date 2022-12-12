@@ -2,11 +2,11 @@
   {
     "name": "Github",
     "link": "https://github.com/adarijani/tara-educational-complex",
-    "image": "images/svg/github.svg"
+    "image": "assets/images/svg/github.svg"
   },
   {
     "name": "Personal_Website",
     "link": "https://adarijani.github.io/",
-    "image": "images/svg/personal.svg"
+    "image": "assets/images/svg/personal.svg"
   }
 ]
