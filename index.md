@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: Tara Educational Complex
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Tara Educational Complex is the manifestation of what I wanted to receive as a student
 intro_image: "assets/images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
