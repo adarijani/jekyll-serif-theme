@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-to be completed:-) ali is great:-)
+to be completed:-)
