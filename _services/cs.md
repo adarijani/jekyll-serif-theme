@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 weight: 2
 ---
 
-### IT & CS
+IT & CS
 
 #### [IT](https://en.wikipedia.org/wiki/Information_technology) vs [CS](https://en.wikipedia.org/wiki/Computer_science)
 
