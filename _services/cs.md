@@ -1,10 +1,11 @@
 ---
-title: "Information Technology and Computer Science"
+title: "IT & CS"
 date: 2018-11-18T12:33:46+10:00
 weight: 2
 ---
 
 #### [IT](https://en.wikipedia.org/wiki/Information_technology) vs [CS](https://en.wikipedia.org/wiki/Computer_science)
+
 For some people [IT](https://en.wikipedia.org/wiki/Information_technology) as in [Information Technology](https://en.wikipedia.org/wiki/Information_technology) is enough and for some other; well quite frankly [Computer Science](https://en.wikipedia.org/wiki/Computer_science) is the only way to go. For some maintaining a [personal computer](https://en.wikipedia.org/wiki/Personal_computer) is enough and for some becoming a proficient [System Admin](https://en.wikipedia.org/wiki/System_administrator) is the goal. For some writing in [Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)) for their personal/corporate finances in [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel) is the key to an efficient piepline and for some building a [Recommender System](https://en.wikipedia.org/wiki/Recommender_system) from scratch using [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) is the bare minimum.
 
 Depending on the talents at our disposal and the demand we yearn for the best we can offer. The possible and trending areas include but not limited to:
