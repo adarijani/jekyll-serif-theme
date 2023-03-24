@@ -20,3 +20,4 @@ Depending on the talents at our disposal and the demand we yearn for the best we
 * [Programming](https://en.wikipedia.org/wiki/Computer_programming) in a [general-purpose programming language](https://en.wikipedia.org/wiki/General-purpose_programming_language) like [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), or [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 
+;adfksvm
