@@ -22,7 +22,19 @@ The mission of Tara Educational Complex is to provide its clients with a unique 
 
 # Our Range and Method
 
-Tara Educational Complex offers a diverse range of mathematical courses, catering to clients with varying levels of proficiency and interests. Whether you are a beginner looking to develop foundational skills or an advanced undividual looking for challenging coursework, there is a math course for you at Tara. Tara offers courses in topics such as calculus, analysis, probability, statistics, and many more. Additionally, the complex assembled a team of highly experienced and talented mentors who are dedicated to helping clients achieve their full potential and goal. Our mentors have years of experience in teaching math and are passionate about helpiindividual develop a deep understanding of mathematical concepts. They take a personalized approach to teaching and work closely with the practitioner to ensure they are engaged and challenged in their coursework. By offering diverse and comprehensive math courses with the support of team, Tara Educational Complex provides an unparalleled learning experience in mathematics. The list of our interesting topics and problems include but not limited to
+Tara Educational Complex offers a diverse range of mathematical courses, catering to clients with varying levels of proficiency and interests. Whether you are a beginner looking to develop foundational skills or an advanced undividual looking for challenging coursework, there is a math course for you at Tara. Tara offers courses in topics such as calculus, analysis, probability, statistics, and many more. Additionally, the complex assembled a team of highly experienced and talented mentors who are dedicated to helping clients achieve their full potential and goal. Our mentors have years of experience in teaching math and are passionate about helpiindividual develop a deep understanding of mathematical concepts. They take a personalized approach to teaching and work closely with the practitioner to ensure they are engaged and challenged in their coursework. By offering diverse and comprehensive math courses with the support of team, Tara Educational Complex provides an unparalleled learning experience in mathematics. We mostly present a problem/solution and explain the underlying mathematical construct
+which is basically the top down approach. The partial list of problems/solutions with their lengthy:-) explanation include but not limited to:
 
-* 
+### JPEG
 
+JPEG compression is a method of reducing the file size of digital images while maintaining an acceptable level of image quality. JPEG stands for Joint Photographic Experts Group, which is the name of the committee that developed this compression technique.
+
+The process of JPEG compression involves several steps. First, the image is divided into small blocks of pixels, usually 8x8 pixels in size. Then, a mathematical formula called the Discrete Cosine Transform (DCT) is applied to each block of pixels. This formula analyzes the brightness and color information in each block and converts it into a series of coefficients that represent the most important features of that block.
+
+The next step is to quantize the coefficients, which means rounding them off to a smaller range of values. This reduces the amount of data required to represent the image, resulting in a smaller file size. However, this also leads to some loss of image quality, as some of the less important details in the image are discarded.
+
+Finally, the quantized coefficients are encoded using a lossless or lossy compression algorithm. In lossless compression, the original data can be completely reconstructed from the compressed data, while in lossy compression, some information is permanently lost in order to achieve a higher compression ratio.
+
+Overall, JPEG compression is a widely used method for reducing the file size of digital images while maintaining an acceptable level of quality. It is commonly used for storing and sharing photographs on the internet and in digital media.  
+
+### 
