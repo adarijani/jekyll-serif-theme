@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Details of our Services
 
-To be Completed:-)
+Introducing whatever that has a way of minimizing the hardships in life:-)
