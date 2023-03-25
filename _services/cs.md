@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 weight: 2
 ---
 
-Wield the latent power of computers
+Wield the latent power of [computers](https://en.wikipedia.org/wiki/Computer)
 
 #### [IT](https://en.wikipedia.org/wiki/Information_technology) vs [CS](https://en.wikipedia.org/wiki/Computer_science)
 
@@ -14,8 +14,8 @@ Depending on the talents at our disposal and the demand we yearn for the best we
 
 #### [IT](https://en.wikipedia.org/wiki/Information_technology)
 
-* Unix/Linux/POSIX
-* Shell Scripting in Bash/Z Shell
+* [Unix](https://en.wikipedia.org/wiki/Unix), [Linux](https://en.wikipedia.org/wiki/Linux#Creation), [POSIX](https://en.wikipedia.org/wiki/POSIX)
+* [Shell](https://en.wikipedia.org/wiki/Shell_(computing)) [Scripting](https://en.wikipedia.org/wiki/Scripting_language) in [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) and [Z Shell](https://en.wikipedia.org/wiki/Z_shell)
 
 #### [CS](https://en.wikipedia.org/wiki/Computer_science)
 
